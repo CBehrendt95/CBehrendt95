@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CBehrendt95
+- 👀 I’m interested in Learning code for video games
+- 🌱 I’m currently learning c# in unity
+- 💞️ I’m looking to collaborate on nothing at the moment :)
